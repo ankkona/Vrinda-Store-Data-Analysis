@@ -4,8 +4,7 @@ This project presents an interactive sales analysis dashboard created using Micr
 # Tools Used
 - MS Excel  
 - Pivot Tables  
-- Pivot Charts  
-- Power Query  
+- Pivot Charts   
 - Slicers & Timelines
 
 # Dataset used
