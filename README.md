@@ -1,14 +1,14 @@
-<img width="1075" height="886" alt="image" src="https://github.com/user-attachments/assets/d8804af5-b64e-40fa-b86e-a79be7c719aa" /># Vrinda Store Data Analysis
+# Vrinda Store Data Analysis
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 &amp; 2024
 
 # Dataset used
 
-#Questions(KPIs)  
--Compare the sales and orders using single chart.
+# Questions(KPIs)  
+- Compare the sales and orders using single chart.
 
--Which month got the highest sales and orders?
+- Which month got the highest sales and orders?
 
--Who purchased more - Men or Women?
+- Who purchased more - Men or Women?
 
 -What are different order status in 2022?
 
