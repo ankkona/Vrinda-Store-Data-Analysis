@@ -3,6 +3,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 # Dataset used
 
+
 # Questions(KPIs)  
 - Compare the sales and orders using single chart.
 
@@ -10,15 +11,30 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 - Who purchased more - Men or Women?
 
--What are different order status in 2022?
+- What are different order status in 2022?
 
--List top 10 states contributingto the sales?
+- List top 10 states contributingto the sales?
 
--Relation between age and gender based on number of orders.
+- Relation between age and gender based on number of orders.
 
--Which Channel is contributing maximum to the sales?
+- Which Channel is contributing maximum to the sales?
 
--Highest selling category?
+- Highest selling category?
 
--Percentage of Total Orders delivered 
+- Percentage of Total Orders delivered
+
+# 🛠 Tools Used
+- MS Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Power Query  
+- Slicers & Timelines
+
+# ✅ Key Insights
+- Women customers contribute more to total sales  
+- Maharashtra, Karnataka, and Uttar Pradesh are top-performing states  
+- Adult age group (30–49 years) makes the highest number of purchases
+
+# 📌 Conclusion
+This dashboard helps Vrinda Store understand customer behavior and improve marketing strategies for future growth.
 
