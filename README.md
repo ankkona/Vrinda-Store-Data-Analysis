@@ -35,10 +35,50 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Slicers & Timelines
 
 # ✅ Key Insights
-- Women customers contribute more to total sales  
-- Maharashtra, Karnataka, and Uttar Pradesh are top-performing states  
-- Adult age group (30–49 years) makes the highest number of purchases
+1️⃣ Sales & Order Trend
 
+- Sales and order volume peak during February and March, indicating strong early-year demand.
+
+- A gradual decline is observed from April onwards, with the lowest sales recorded toward the end of the year.
+
+- This suggests seasonality, where promotional campaigns early in the year perform better.
+
+2️⃣ Gender-wise Sales Contribution
+
+- Women dominate purchases, contributing approximately 64% of total sales.
+
+- Men account for only 36%, highlighting women as the primary customer base.
+
+- Marketing efforts should therefore be female-centric.
+
+3️⃣ Order Fulfillment Performance
+
+- An impressive 92% of orders are successfully delivered.
+
+- Only a small fraction is cancelled, returned, or refunded (~8%), reflecting efficient logistics and customer satisfaction.
+
+4️⃣ Top Performing States
+
+- Maharashtra leads sales by a significant margin.
+
+- Karnataka and Uttar Pradesh follow as the second and third highest contributors.
+
+- These states represent the core revenue-generating regions and should be prioritized for regional campaigns.
+
+5️⃣ Age & Gender Purchase Behavior
+
+- The Adult age group (30–49 years) contributes the highest share of orders.
+
+- Within every age group (Adult, Senior, Teenager), women consistently place more orders than men.
+
+- Adult women alone account for over 34% of total orders, making them the most valuable segment.
+
+6️⃣ Sales Channel Performance
+
+- Amazon (35.5%) is the top-performing sales channel.
+- Myntra (23.4%) and Flipkart (21.6%) together contribute nearly half of total orders.
+- Platforms like Meesho, Ajio, Nalli, and others contribute marginally, indicating scope for optimization.
+  
 # 📌 Conclusion
-This dashboard helps Vrinda Store understand customer behavior and improve marketing strategies for future growth.
+To boost Vrinda Store’s sales, a focused marketing strategy should be designed for women aged 30–49 living in Maharashtra, Karnataka and Uttar Pradesh. This group forms a crucial customer base as they play a major role in household and lifestyle-related purchasing decisions. Implementing targeted digital marketing initiatives along with personalized offers can effectively engage this audience and drive higher sales.
 
