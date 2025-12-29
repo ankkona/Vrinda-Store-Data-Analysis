@@ -1,7 +1,7 @@
 # Vrinda Store Data Analysis
 This project presents an interactive sales analysis dashboard created using Microsoft Excel for Vrinda Store’s 2022 sales data. The dashboard provides a comprehensive overview of sales performance, customer demographics, order trends, and channel-wise distribution.
 
-# 🛠 Tools Used
+# Tools Used
 - MS Excel  
 - Pivot Tables  
 - Pivot Charts  
@@ -33,7 +33,7 @@ This project presents an interactive sales analysis dashboard created using Micr
 # Dashboard
 <img src="https://github.com/ankkona/Vrinda-Store-Data-Analysis/blob/main/Dashboard.gif" alt="Dashboard Demo" width="1000"/>
 
-# ✅ Key Insights
+# Key Insights
 1️⃣ Sales & Order Trend
 
 - Sales and order volume peak during February and March, indicating strong early-year demand.
@@ -80,6 +80,6 @@ This project presents an interactive sales analysis dashboard created using Micr
   
 - Platforms like Meesho, Ajio, Nalli, and others contribute marginally, indicating scope for optimization.
   
-# 📌 Conclusion
+# Conclusion
 To boost Vrinda Store’s sales, a focused marketing strategy should be designed for women aged 30–49 living in Maharashtra, Karnataka and Uttar Pradesh. This group forms a crucial customer base as they play a major role in household and lifestyle-related purchasing decisions. Implementing targeted digital marketing initiatives along with personalized offers can effectively engage this audience and drive higher sales.
 
