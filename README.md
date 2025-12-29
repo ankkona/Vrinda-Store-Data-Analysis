@@ -1,5 +1,12 @@
 # Vrinda Store Data Analysis
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 &amp; 2024
+This project presents an interactive sales analysis dashboard created using Microsoft Excel for Vrinda Store’s 2022 sales data. The dashboard provides a comprehensive overview of sales performance, customer demographics, order trends, and channel-wise distribution.
+
+# 🛠 Tools Used
+- MS Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Power Query  
+- Slicers & Timelines
 
 # Dataset used
 - <a href="https://github.com/ankkona/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Vrinda Store Data</a>
@@ -25,14 +32,6 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 # Dashboard
 <img src="https://github.com/ankkona/Vrinda-Store-Data-Analysis/blob/main/Dashboard.gif" alt="Dashboard Demo" width="1000"/>
-
-
-# 🛠 Tools Used
-- MS Excel  
-- Pivot Tables  
-- Pivot Charts  
-- Power Query  
-- Slicers & Timelines
 
 # ✅ Key Insights
 1️⃣ Sales & Order Trend
@@ -76,7 +75,9 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 6️⃣ Sales Channel Performance
 
 - Amazon (35.5%) is the top-performing sales channel.
+  
 - Myntra (23.4%) and Flipkart (21.6%) together contribute nearly half of total orders.
+  
 - Platforms like Meesho, Ajio, Nalli, and others contribute marginally, indicating scope for optimization.
   
 # 📌 Conclusion
