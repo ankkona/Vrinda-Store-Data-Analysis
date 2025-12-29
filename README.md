@@ -2,10 +2,11 @@
 This project presents an interactive sales analysis dashboard created using Microsoft Excel for Vrinda Store’s 2022 sales data. The dashboard provides a comprehensive overview of sales performance, customer demographics, order trends, and channel-wise distribution.
 
 # Tools Used
-- MS Excel  
-- Pivot Tables  
-- Pivot Charts   
-- Slicers & Timelines
+- MS Excel
+- Pivot Tables
+- Charts (Column, Bar, Pie)
+- Slicers
+- Conditional Formatting
 
 # Dataset used
 - <a href="https://github.com/ankkona/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Vrinda Store Data</a>
